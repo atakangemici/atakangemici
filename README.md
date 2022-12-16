@@ -1,7 +1,5 @@
 Hi there  👋
 
-=====================================================================================================================================
-
 I have been working as a Full Stack(BE-heavy) developer in the CRM , HRM Apps and Low-Code Platform projects for a long time. I continue to develop myself with new technologies in the projects I take part in.
 
 * 🌍  I'm based in istanbul
