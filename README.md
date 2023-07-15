@@ -2,7 +2,7 @@ Hi there  👋
 ------------------------------
 
 
-I have been working as a Full Stack(BE-heavy) developer in the CRM , HRM Apps and Low-Code Platform projects for a long time. I continue to develop myself with new technologies in the projects I take part in.
+I have been working as a Full Stack(backend-heavy) developer on CRM, HRM Applications and Low-Code Platform projects for a long time. I continue to improve myself with new technologies in projects.
 
 * 🌍  I'm based in istanbul
 * 🚀  I'm currently working on [App Builder](http://www.jitterbit.com/product/app-builder/)
