@@ -5,7 +5,7 @@ Hi there  👋
 I worked as a Full Stack developer on CRM, HRM and Low-Code Platform projects for a long time. I am currently involved as a backend developer in the integration of Enterprise systems with new technologies.
 
 * 🌍  I'm based in istanbul
-* 🚀  I'm currently working at Sodexo
+* 🚀  I'm currently working at Pluxee
 * ✉️  You can contact me at [atakangmc@gmail.com](mailto:atakangmc@gmail.com)
 
 ### Skills
