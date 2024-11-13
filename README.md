@@ -2,7 +2,7 @@ Hi there  👋
 ------------------------------
 
 
-I worked as a Full Stack developer on CRM, HRM and Low-Code Platform projects for a long time. I am currently involved as a backend developer in the integration of Enterprise systems with new technologies.
+I am a Senior Software Developer with experience in different software projects. Currently, I am working on updating high-traffic enterprise projects with modern technologies and contributing to the development of new projects.
 
 * 🌍  I'm based in istanbul
 * 🚀  I'm currently working at Pluxee
