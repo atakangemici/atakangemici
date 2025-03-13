@@ -5,7 +5,7 @@ Hi there  👋
 I am a Senior Software Developer with experience in different software projects. Currently, I am working on updating high-traffic enterprise projects with modern technologies and contributing to the development of new projects.
 
 * 🌍 I'm based in Istanbul
-* 🚀 I'm currently working at Pluxee
+* 🚀 I'm currently working at TurkNet
 * ✉️ You can contact me at atakangmc@gmail.com
 * 📝 You can check out my Medium articles: [atakangemici.medium.com](https://atakangemici.medium.com/)
 
