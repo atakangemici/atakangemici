@@ -1,6 +1,4 @@
 Hi there  👋
-------------------------------
-
 
 I am a Senior Software Developer with experience in different software projects. Currently, I am working on updating high-traffic enterprise projects with modern technologies and contributing to the development of new projects.
 
